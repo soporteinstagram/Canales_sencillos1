@@ -18,3 +18,14 @@ https://espare.tk/live/disney_xd_lat.m3u8?token=g5V_YRD2XP60TZS2ra788g&expires=1
 
 #EXTINF:-1 ,Fox
 https://espare.tk/live/fox_lat.m3u8?token=y8wd9mT7KP0_uRJEr81MaQ&expires=1604622722
+
+#EXTINF:-1 ,TNT
+https://espare.tk/live/tnt_lat.m3u8?token=nUuVQ3X-DICG0a0PrG38Dg&expires=1604626056
+
+
+#EXTINF:-1 ,TNT Series
+https://espare.tk/live/tnt_series_lat.m3u8?token=d9UiUrmRgyZWoWnObaZZ4Q&expires=1604626299
+
+
+#EXTINF:-1 ,HBO Family
+https://espare.tk/live/hbo_family_lat.m3u8?token=PcsuuSi9Ch1w_MP1cAGVsA&expires=1604626224
