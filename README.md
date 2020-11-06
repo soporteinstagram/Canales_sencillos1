@@ -56,7 +56,7 @@ https://espare.tk/live/fox_series_lat.m3u8?token=82jgWltpzJUQiImtzVg6xg&expires=
 #EXTINF:-1 ,Disney Chanel
 https://espare.tk/live/disney_channel_lat.m3u8?token=yk6L6_4ARUkt5r_7jxiX_Q&expires=1604645123
 
-#EXTINF:-1 Nickelodeon
+#EXTINF:-1 ,Nickelodeon
 https://espare.tk/live/nick_lat.m3u8?token=i59ySr5BI8SECIrpzajwaA&expires=1604645590
 
 #EXTINF:-1 ,Boomerang
