@@ -69,7 +69,7 @@ https://espare.tk/live/cinecanal_lat.m3u8?token=4jt5nHnstkh22Q-Xp86pdg&expires=1
 https://espare.tk/live/tooncast_lat.m3u8?token=FyUE6RohkSVRG_zSCEnvFQ&expires=1604646381
 
 #EXTINF:-1 ,Space
-https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_240_av-p.m3u8?sd=10&rebase=on&id=AgC6lRc%2flGcABc%2fWpF9TzmksmQo+6+%2fZzIxuRR25zVdybq1fNjbE++M6Pzx0xExeuILiUPXC4MJ60g%3d%3d&hdntl=exp=1604660015~acl=%2f*~data=hdntl~hmac=1e9f71ed515dccdcd59b9cae83d605dde8b8580d9b556b3c2474d19c6243868a
+https://live.televisiongratishd.com/live/39_.m3u8?token=ATxwKelAWujZvRlJuJqkQQ&expires=1604660530
 
 #EXTINF:-1 ,Animal Planet
 https://espare.tk/live/animal_planet_lat.m3u8?token=UuOEfsbCffCRoJ5WlYjV1Q&expires=1604646387
