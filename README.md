@@ -54,7 +54,7 @@ https://espare.tk/live/fox_family_lat.m3u8?token=O-dyC5T9ooAnZdilrOsPgQ&expires=
 https://espare.tk/live/fox_series_lat.m3u8?token=82jgWltpzJUQiImtzVg6xg&expires=1604644804
 
 #EXTINF:-1 ,Disney Chanel
-https://espare.tk/live/disney_channel_lat.m3u8?token=yk6L6_4ARUkt5r_7jxiX_Q&expires=1604645123
+https://live.televisiongratishd.com/live/107_.m3u8?token=kQOqvit3Y2XB9PDL65sQDg&expires=1604661117
 
 #EXTINF:-1 ,Nickelodeon
 https://espare.tk/live/nick_lat.m3u8?token=i59ySr5BI8SECIrpzajwaA&expires=1604645590
