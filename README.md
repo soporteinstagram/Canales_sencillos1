@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,Digital 15
-https://player-api.new.livestream.com/accounts/28126860/events/8825282/broadcasts/212934890.secure.m3u8?dw=14400&hdnea=st%3D1604598615~exp%3D1604600415~acl%3D%2Fi%2F28126860_8825282_lsian8am6g6fu5klwii_1%40688862%2F%2A~hmac%3D04b1f34ed995ec84b18634ab56197d76b8cba0657c7955670b3f94bae327ffa5&token=5fa43c83_68594e9f0665ee660577570633eeffe787006606
+https://playback.akamaized.net/streams/27456795_8268514_lsiihy7enqg4pf8vskt_1/media/27456795_8268514_lsiihy7enqg4pf8vskt_1@628000p.m3u8?dw=14400&ts=1604635200&hdnts=exp=1604809218~acl=/streams/27456795_8268514_lsiihy7enqg4pf8vskt_1/media*~hmac=a47feabf942e615494b39da351decb767e72465aa88f4a11d4d78ae54d938a5f
 
 #EXTINF:-1 ,Telesistema 11
 https://ss3.domint.net:3114/t11_str/telesistema/chunklist_w674458651.m3u8
@@ -10,25 +10,25 @@ https://ss3.domint.net:3114/t11_str/telesistema/chunklist_w674458651.m3u8
 https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY9g_6avgpgLCBFeZ4S6hm_U)/dm/3/x7gy059/d/live-1.m3u8
 
 #EXTINF:-1 ,Cartoon Network
-https://espare.tk/live/cartoon_network_lat.m3u8?token=XdEGUOS3KDHVPnnTreukkQ&expires=1604622173
+https://espare.tk/live/cartoon_network_lat.m3u8?token=YsUtKNs1RA1ikV7y_xn0RQ&expires=1604658821
 
 #EXTINF:-1 ,Disney XD
-https://espare.tk/live/disney_xd_lat.m3u8?token=g5V_YRD2XP60TZS2ra788g&expires=1604622378
+https://espare.tk/live/disney_xd_lat.m3u8?token=lQwR8SnMRhKtIy8bh_R_mw&expires=1604658524
 
 
 #EXTINF:-1 ,Fox
-https://espare.tk/live/fox_lat.m3u8?token=y8wd9mT7KP0_uRJEr81MaQ&expires=1604622722
+https://espare.tk/live/fox_lat.m3u8?token=vgA7VrbcvAI5TzrtzrutRg&expires=1604658891
 
 #EXTINF:-1 ,TNT
-https://espare.tk/live/tnt_lat.m3u8?token=nUuVQ3X-DICG0a0PrG38Dg&expires=1604626056
+https://espare.tk/live/tnt_lat.m3u8?token=aayzfd2XHyerXqlkANPmMA&expires=1604659005
 
 
 #EXTINF:-1 ,TNT Series
-https://espare.tk/live/tnt_series_lat.m3u8?token=d9UiUrmRgyZWoWnObaZZ4Q&expires=1604626299
+https://espare.tk/live/tnt_series_lat.m3u8?token=Go4Hub9285pUJCu1zTVhbw&expires=1604659061
 
 
 #EXTINF:-1 ,HBO Family
-https://espare.tk/live/hbo_family_lat.m3u8?token=PcsuuSi9Ch1w_MP1cAGVsA&expires=1604626224
+https://espare.tk/live/hbo_family_lat.m3u8?token=FqoFOylLx5hpW-3o6Ths8A&expires=1604659114
 
 #EXTINF:-1 ,HBO
 https://espare.tk/live/hbo_lat.m3u8?token=kEj2hDatdVybKrm9D60PCg&expires=1604643477
@@ -51,7 +51,6 @@ https://espare.tk/live/fox_action_lat.m3u8?token=71_YxyD1HuQ0lvxHf1AJaA&expires=
 https://espare.tk/live/fox_family_lat.m3u8?token=O-dyC5T9ooAnZdilrOsPgQ&expires=1604645118
 
 #EXTINF:-1 ,Fox Series
-
 https://espare.tk/live/fox_series_lat.m3u8?token=82jgWltpzJUQiImtzVg6xg&expires=1604644804
 
 #EXTINF:-1 ,Disney Chanel
@@ -61,7 +60,6 @@ https://espare.tk/live/disney_channel_lat.m3u8?token=yk6L6_4ARUkt5r_7jxiX_Q&expi
 https://espare.tk/live/nick_lat.m3u8?token=i59ySr5BI8SECIrpzajwaA&expires=1604645590
 
 #EXTINF:-1 ,Boomerang
-
 https://espare.tk/live/boomerang_lat.m3u8?token=8-BN2J9e8_H8PnjKVH3KSw&expires=1604645757
 
 #EXTINF:-1 ,Cinecanal
