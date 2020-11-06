@@ -69,7 +69,7 @@ https://espare.tk/live/cinecanal_lat.m3u8?token=4jt5nHnstkh22Q-Xp86pdg&expires=1
 https://espare.tk/live/tooncast_lat.m3u8?token=FyUE6RohkSVRG_zSCEnvFQ&expires=1604646381
 
 #EXTINF:-1 ,Space
-https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_240_av-p.m3u8?sd=10&rebase=on&id=AgC6lRc%2flGcAB5ugpF+ryf74%2fqtJ6DOSqusVRt3TFkYoDn%2feskQ7gNMo0nG+TLjbDF%2fX+Ro5Hlkv9Q%3d%3d&hdntl=exp=1604646139~acl=%2f*~data=hdntl~hmac=5a247ff9525bd8d0ef4596d415c4ffd4cec253e8e88ac5f9ee5e4a038880becb
+https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_240_av-p.m3u8?sd=10&rebase=on&id=AgC6lRc%2flGcABc%2fWpF9TzmksmQo+6+%2fZzIxuRR25zVdybq1fNjbE++M6Pzx0xExeuILiUPXC4MJ60g%3d%3d&hdntl=exp=1604660015~acl=%2f*~data=hdntl~hmac=1e9f71ed515dccdcd59b9cae83d605dde8b8580d9b556b3c2474d19c6243868a
 
 #EXTINF:-1 ,Animal Planet
 https://espare.tk/live/animal_planet_lat.m3u8?token=UuOEfsbCffCRoJ5WlYjV1Q&expires=1604646387
@@ -79,6 +79,10 @@ https://espare.tk/live/nat_geo_wild_lat.m3u8?token=olU_2WWrsbJjmdstFJ7MTA&expire
 
 #EXTINF:-1 ,Cinemax
 https://espare.tk/live/cinemax.m3u8?token=xZ7SCRh7BghgfrjQToNBIA&expires=1604646598
+
+
+
+
 
 
 
