@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 ,Digital 15
-https://playback.akamaized.net/streams/27456795_8268514_lsiwvx7rn5devtfvp4x_1/media/27456795_8268514_lsiwvx7rn5devtfvp4x_1@628000p.m3u8?dw=14400&ts=1604674800&hdnts=exp=1604847886~acl=/streams/27456795_8268514_lsiwvx7rn5devtfvp4x_1/media*~hmac=b21ecb9d6c5f276f2739ebfa9d653a18774062fc15a0489ef7d8abd2c9001289
 
 #EXTINF:-1 ,Telesistema 11
 https://ss3.domint.net:3114/t11_str/telesistema/chunklist_w674458651.m3u8
